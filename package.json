@@ -1,0 +1,16 @@
+{
+  "name": "forest-army-daily-reward",
+  "version": "1.0.0",
+  "description": "Automated daily reward claimer for Billions Network by Forest Army.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "figlet": "^1.5.2",
+    "moment-timezone": "^0.5.44"
+  },
+  "author": "Forest Army - OGGY",
+  "license": "MIT"
+}
