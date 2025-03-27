@@ -71,7 +71,7 @@ function showBanner() {
 ██╔══██║██║  ██║██╔══██╗    ██║╚██╗██║██║   ██║██║  ██║██╔══╝  
 ██║  ██║██████╔╝██████╔╝    ██║ ╚████║╚██████╔╝██████╔╝███████╗
 ╚═╝  ╚═╝╚═════╝ ╚═════╝     ╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚══════╝
-by btctrader
+by ADB Node
     `);
     console.log("🔥 Automating Daily Reward for BILLIONS NETWORK 🔥\n");
 }
